@@ -7,6 +7,11 @@ int main()
 	char letters[256];
 	int change;
 
+
+	//modify
+	cout<<"hello. this is jihyng world! welcome"<<endl;
+	/////////
+
 	cout<<"Enter the string : ";
 	cin.getline(letters,256);
 	
