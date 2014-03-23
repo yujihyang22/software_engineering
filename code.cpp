@@ -8,6 +8,11 @@ int main()
 	int change;
 
 
+	//++
+	cout<<" how to use git and github? "<<endl;
+	//
+	
+
 	//modify
 	cout<<"hello. this is jihyng world! welcome"<<endl;
 	/////////
